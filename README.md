@@ -8,5 +8,4 @@ Welcome to the official documentation of the FocusNote - a minimal, AI-integrate
 - Offline access
 - Tagging and search functionality
 
-## Getting Started
-[Instructions will go here]
+
