@@ -11,7 +11,4 @@ Our goal is to provide clear, concise, and user-friendly information to enhance 
 Let's get started!
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> eeaadf8c2270032405d0a472d9b2db160f4e4b47
